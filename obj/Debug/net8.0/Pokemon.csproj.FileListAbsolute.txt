@@ -1,0 +1,14 @@
+C:\Users\hecto\Desktop\Dev Projects\Pokemon\bin\Debug\net8.0\Pokemon.exe
+C:\Users\hecto\Desktop\Dev Projects\Pokemon\bin\Debug\net8.0\Pokemon.deps.json
+C:\Users\hecto\Desktop\Dev Projects\Pokemon\bin\Debug\net8.0\Pokemon.runtimeconfig.json
+C:\Users\hecto\Desktop\Dev Projects\Pokemon\bin\Debug\net8.0\Pokemon.dll
+C:\Users\hecto\Desktop\Dev Projects\Pokemon\bin\Debug\net8.0\Pokemon.pdb
+C:\Users\hecto\Desktop\Dev Projects\Pokemon\obj\Debug\net8.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\Desktop\Dev Projects\Pokemon\obj\Debug\net8.0\Pokemon.AssemblyInfoInputs.cache
+C:\Users\hecto\Desktop\Dev Projects\Pokemon\obj\Debug\net8.0\Pokemon.AssemblyInfo.cs
+C:\Users\hecto\Desktop\Dev Projects\Pokemon\obj\Debug\net8.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Desktop\Dev Projects\Pokemon\obj\Debug\net8.0\Pokemon.dll
+C:\Users\hecto\Desktop\Dev Projects\Pokemon\obj\Debug\net8.0\refint\Pokemon.dll
+C:\Users\hecto\Desktop\Dev Projects\Pokemon\obj\Debug\net8.0\Pokemon.pdb
+C:\Users\hecto\Desktop\Dev Projects\Pokemon\obj\Debug\net8.0\Pokemon.genruntimeconfig.cache
+C:\Users\hecto\Desktop\Dev Projects\Pokemon\obj\Debug\net8.0\ref\Pokemon.dll
